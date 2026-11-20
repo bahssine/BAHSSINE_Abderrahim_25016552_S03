@@ -1,0 +1,21 @@
+Id,Nom,Filiere,Ville,Age,Note,Bourse
+1,Ali,IA,Fes,21,14.5,non
+2,Sara,GI,Meknes,23,16.0,oui
+3,Driss,IA,Fes,20,12.0,non
+4,Salma,GI,Khouribga,22,,oui
+5,Youssef,IA,fes ,24,9.5,non
+6,Imane,GI,Meknes,,15.0,non
+7,Hamza,IA,FES,21,11.0,oui
+8,Nada,GI,Khouribga,25,17.5,non
+9,Omar,IA,Fes,22,8.0,non
+10,Lina,GI,Meknes,23,13.5,oui
+11,Karim,IA,Khouribga,,10.0,non
+12,Jalil,GI,fes,20,,non
+13,Rim,IA,Meknes,24,12.5,oui
+14,Anas,GI,FES,22,14.0,non
+15,Hind,IA,Khouribga,21,16.5,oui
+16,Zineb,GI,Meknes,23,15.5,non
+17,Reda,IA,Fes,26,9.0,non
+18,Meryem,GI,Khouribga,,13.0,oui
+19,Tarik,IA,Meknes ,22,11.5,non
+20,Aya,GI,Fes,21,18.0,oui

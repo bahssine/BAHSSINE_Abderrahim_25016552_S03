@@ -1,0 +1,11 @@
+Id,Nom,Filiere,Ville,Age,Note,Bourse
+1,Ali,IA,Fes,21.0,14.5,non
+3,Driss,IA,Fes,20.0,12.0,non
+5,Youssef,IA,fes ,24.0,9.5,non
+7,Hamza,IA,FES,21.0,11.0,oui
+9,Omar,IA,Fes,22.0,8.0,non
+11,Karim,IA,Khouribga,,10.0,non
+13,Rim,IA,Meknes,24.0,12.5,oui
+15,Hind,IA,Khouribga,21.0,16.5,oui
+17,Reda,IA,Fes,26.0,9.0,non
+19,Tarik,IA,Meknes ,22.0,11.5,non
