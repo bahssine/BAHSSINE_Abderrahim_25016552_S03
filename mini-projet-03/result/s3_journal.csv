@@ -1,0 +1,7 @@
+Colonne,Decision,Pourquoi,Lignes_touchees
+Age,Remplir par la médiane 28 et créer Age_estime,Conserver les passagers et repérer les estimations,177
+Embarked,Remplir les ports manquants par le mode S,Seulement deux valeurs manquantes,2
+Cabin,Conserver les trous et ajouter A_cabine,Trop de cabines manquantes pour les inventer,0
+"Pclass, Sex, Embarked",Convertir en category,Ces colonnes représentent des catégories,891
+Colonnes calculées de S2,Renommer les quatre colonnes,Harmoniser les noms des colonnes,891
+Famille_nombreuse,Créer un indicateur FamilySize >= 5,Repérer les familles nombreuses,891
